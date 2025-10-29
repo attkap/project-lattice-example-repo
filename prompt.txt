@@ -1,0 +1,1 @@
+Create a file called hello.txt using the terminal in your home directory. The file should contain exactly the text "Hello, World!" on a single line.
